@@ -13,7 +13,7 @@ An intelligent job scraper that automatically finds entry-level positions (0-2 y
 ## ✨ Features
 
 - 🎯 **Experience-Based Filtering**: Automatically filters jobs for 0-2 years of experience
-- 🔍 **Dual-Platform Scraping**: Fetches jobs from both Naukri and Indeed
+- 🔍 **Multi-Platform Scraping**: Fetches jobs from different platforms 
 - 🚀 **Smart Defaults**: Works even without URLs using default entry-level searches
 - 📄 **Intelligent Pagination**: Scans up to 15 pages per site, collecting up to 50 relevant jobs
 - 💌 **Beautiful HTML Emails**: Clean, modern, mobile-friendly email reports
